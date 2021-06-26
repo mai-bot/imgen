@@ -1,3 +1,6 @@
+# Fork
+Runs for Mai without the rethink crap
+
 # meme-server
 The microservice that powers [Dank Memer's](https://goo.gl/HL3zBi) Image Generation.
 
